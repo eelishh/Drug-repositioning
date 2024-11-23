@@ -7,4 +7,16 @@ Using clustering techniques and topological analysis, the results reveal a sugge
 
 ### In this repository you will find:
 
-- prova
+- 📊 **DATA**: There are all the data used in this work
+    - DRUG_GENE_ASSOCIATION (DGA)
+      Source: DGIdb
+      Description: Provides drug-gene interaction data, linking drugs to their effects on gene expression and interactions.
+    - GENE-DISEASE ASSOCIATION (GDA)
+      Source: DisGeNET
+      Description: Integrates gene-disease association information from scientific literature and curated databases.
+    - FUNCTIONAL INTERACTIONS (FI)
+      Source: Reactome
+      Description: Represents interactions between molecules within biological pathways, such as metabolism, gene regulation, and signal transmission.
+    - PROTEIN-PROTEIN INTERACTIONS (PPI)
+      Source: BioGRID
+      Description: Provides a curated repository of gene and protein interactions across major species. Focused on Homo sapiens for this work.
