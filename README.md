@@ -7,7 +7,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
 
 ### In this repository you will find:
 
-- 📊**DATI**: This repository includes all the data used
+- 📊**DATI**: This repository includes all the data used: https://drive.google.com/drive/folders/1e0icTHDygktdkV4UO5Zgw9l1PmcIW6CE?usp=drive_link
     - DRUG_GENE_ASSOCIATION (DGA)
       - Source: DGIdb
       - Description: Provides drug-gene interaction data, linking drugs to their effects on gene expression and interactions.
@@ -20,8 +20,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
     - PROTEIN-PROTEIN INTERACTIONS (PPI)
       - Source: BioGRID
       - Description: Provides a curated repository of gene and protein interactions across major species. Focused on Homo sapiens for this work.
-      - Since the file was too big to be uploaded, here you can find the link to download the PPI data: https://drive.google.com/drive/folders/1muSB_F6wSO_Y15Z3cRzNsJH-oxNTgL1b?usp=drive_link
-
+      
 - 💻**CODE**: This repository includes all the notebooks used:
     - PE_Project.ipynb: Contains the functional and topological analysis
     - Clustering_all_db.ipynb: Focuses on the clustering analysis   
