@@ -7,7 +7,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
 
 ### In this repository you will find:
 
-- 📊**DATI**: This repository includes all the data used: https://drive.google.com/drive/folders/1e0icTHDygktdkV4UO5Zgw9l1PmcIW6CE?usp=drive_link
+- 📊**DATA**: This repository includes all the data used: https://drive.google.com/drive/folders/1e0icTHDygktdkV4UO5Zgw9l1PmcIW6CE?usp=drive_link
     - DRUG_GENE_ASSOCIATION (DGA)
       - Source: DGIdb
       - Description: Provides drug-gene interaction data, linking drugs to their effects on gene expression and interactions.
