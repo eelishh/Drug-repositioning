@@ -22,5 +22,5 @@ Using clustering techniques and topological analysis, the results reveal a sugge
       - Description: Provides a curated repository of gene and protein interactions across major species. Focused on Homo sapiens for this work.
 
 - 💻**CODE**: This repository includes all the notebooks used:
-    - PE_Project.ipynb: Contains the topological and functional analysis
+    - PE_Project.ipynb: Contains the functional analysis and topological 
     - Clustering_all_db.ipynb: Focuses on the clustering analysis   
