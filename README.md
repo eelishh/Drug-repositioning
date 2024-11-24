@@ -25,7 +25,13 @@ Using clustering techniques and topological analysis, the results reveal a sugge
     - PE_Project.ipynb: Contains the functional and topological analysis
     - Clustering_all_db.ipynb: Focuses on the clustering analysis
  
-- **RESULTS**: This repository includes all the results of the three level of investigation
-    - Overlap between genes sets:
-    - Functional similarity:
-    - Topological proximity:   
+- 🗃️**RESULTS**: This repository includes the results of the three levels of investigation conducted in this work:
+    - Overlap Between Gene Sets
+        - Contains analyses on the overlaps between gene sets, including original disease genes (OD), repurposed disease genes (RD), and drug target genes (T).
+          Results include the Overlap Index (OI) calculations and comparisons to assess the similarity between these gene sets.
+    - Functional Similarity
+        - Includes results of functional enrichment analysis using GSEApy, covering pathways (Reactome, KEGG) and gene ontology categories (Biological Process,               Cellular Component, Molecular Function).
+          Results highlight enrichment matrices, clustering analysis, and Principal Component Analysis (PCA) for disease pairs.
+    - Topological Proximity
+        - Contains results of topological analysis, measuring network proximity between disease gene modules using PPI and FI networks.
+          Includes calculations of topological separation (sAB) and clustering based on proximity metrics, along with visualization of network-based similarities.
