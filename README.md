@@ -23,4 +23,9 @@ Using clustering techniques and topological analysis, the results reveal a sugge
       
 - 💻**CODE**: This repository includes all the notebooks used:
     - PE_Project.ipynb: Contains the functional and topological analysis
-    - Clustering_all_db.ipynb: Focuses on the clustering analysis   
+    - Clustering_all_db.ipynb: Focuses on the clustering analysis
+ 
+- **RESULTS**
+    - Functional Results
+    - Topological Results
+    - Clustering Results   
