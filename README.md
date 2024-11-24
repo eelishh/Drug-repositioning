@@ -7,7 +7,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
 
 ### In this repository you will find:
 
-- 📊**DATA**: This repository includes all the data used
+- 📊**DATI**: This repository includes all the data used
     - DRUG_GENE_ASSOCIATION (DGA)
       - Source: DGIdb
       - Description: Provides drug-gene interaction data, linking drugs to their effects on gene expression and interactions.
@@ -22,5 +22,5 @@ Using clustering techniques and topological analysis, the results reveal a sugge
       - Description: Provides a curated repository of gene and protein interactions across major species. Focused on Homo sapiens for this work.
 
 - 💻**CODE**: This repository includes all the notebooks used:
-    - PE_Project.ipynb: Contains the functional analysis and topological 
+    - PE_Project.ipynb: Contains the functional and topological analysis
     - Clustering_all_db.ipynb: Focuses on the clustering analysis   
