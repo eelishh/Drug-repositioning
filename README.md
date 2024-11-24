@@ -25,7 +25,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
     - PE_Project.ipynb: Contains the functional and topological analysis
     - Clustering_all_db.ipynb: Focuses on the clustering analysis
  
-- **RESULTS**
-    - Functional Results
-    - Topological Results
-    - Clustering Results   
+- **RESULTS**: This repository includes all the results of the three level of investigation
+    - Overlap between genes sets:
+    - Functional similarity:
+    - Topological proximity:   
