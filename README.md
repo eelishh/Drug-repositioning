@@ -20,3 +20,7 @@ Using clustering techniques and topological analysis, the results reveal a sugge
     - PROTEIN-PROTEIN INTERACTIONS (PPI)
       - Source: BioGRID
       - Description: Provides a curated repository of gene and protein interactions across major species. Focused on Homo sapiens for this work.
+- **CODE**: there are all the notebook used in this work    
+    - PE_Project.ipynb
+    - databases_1.ipynb
+    - Clustering_all_db.ipynb     
